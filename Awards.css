@@ -1,0 +1,56 @@
+
+
+.heading {
+font-size: 200px;
+margin-left:50%;
+font-family: 'Gills Sans';
+
+}
+
+.background {
+background:url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/background_red.jpeg');
+/*background-repeat: no-repeat;*/
+position: absolute;
+top: 0;
+bottom: 0;
+right: 0;
+left: 0;
+}
+
+.tiles {
+    float: left;
+    width: 50%;
+    padding:1px;
+    margin: 1px;
+    height: 800px;
+}
+
+
+
+.val_photos {
+   background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/val.jpeg');
+   background-repeat: no-repeat;
+}
+
+
+.column-2 {
+    float: left;
+    width: 30%;
+    padding: 140px;
+    padding-left: 70px;
+    padding-right: 70px;
+    height: 100px;
+    margin: 30px;
+    margin-right: 30px;
+    margin-bottom: 70px;
+    background-color: #FEDE00;
+    line-height: 2;
+  }
+
+
+
+.math_photos {
+  
+    background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/school_math.jpeg');
+    background-repeat: no-repeat;
+}
