@@ -1,5 +1,5 @@
 .back_image {
-background:url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/back_image.jpeg');
+background:url('./images/back_image.jpeg');
 position: absolute;
 top: 0;
 bottom: 0;
@@ -63,7 +63,7 @@ left: 0;
 
 
   .large-profile {
-    background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/about_me.png');
+    background: url('./images/about_me.png');
     background-size: cover;
     background-position:center;
   }
@@ -88,7 +88,7 @@ left: 0;
 /* Color and Images for Project Containers  */
 
 .project-1 {
-  background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/tiana.jpeg');
+  background: url('./images/tiana.jpeg');
   background-size: cover;
 }
 .project-2 {
@@ -117,7 +117,7 @@ left: 0;
 }
 
 .project-8 {
-  background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/tiana.jpeg');
+  background: url('./images/tiana.jpeg');
   background-size: cover;
 }
 

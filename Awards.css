@@ -8,7 +8,7 @@ font-family: 'Gills Sans';
 }
 
 .background {
-background:url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/background_red.jpeg');
+background:url('./images/background_red.jpeg');
 /*background-repeat: no-repeat;*/
 position: absolute;
 top: 0;
@@ -28,7 +28,7 @@ left: 0;
 
 
 .val_photos {
-   background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/val.jpeg');
+   background: url('./images/val.jpeg');
    background-repeat: no-repeat;
 }
 
@@ -51,6 +51,6 @@ left: 0;
 
 .math_photos {
   
-    background: url('/Users/kavyamurali/Documents/Project 1 - TrialWebsite/images/school_math.jpeg');
+    background: url('./images/school_math.jpeg');
     background-repeat: no-repeat;
 }
