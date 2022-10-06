@@ -1,0 +1,29 @@
+git clone of repository copy the url
+
+git add . // changes are staged
+git commit -m "my messages" //changes are committed to local branch
+git push origin //push to server
+
+
+/// Creating a branch ///
+
+1. Gives the information of the current branch
+git status 
+
+2. Creating a branch; it will create a branch from the current branch
+git checkout -b  "new branch name" 
+
+//this will take you to the specified branch
+3. git checkout "name of the branch"
+
+4 stage
+5. commit 
+6. git push origin nameofbranch(specified in step2) 
+
+
+//Merging 
+Using the git page, create a pull request
+merge 
+
+
+
